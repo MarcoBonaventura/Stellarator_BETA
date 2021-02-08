@@ -35,7 +35,7 @@
         <!-- TODO: Replace with your real AdMob app ID -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-4619763349706955~3272015465"
+            android:value="ca-app-pub-xxxxxxxxxxxxxxxx~xxxxxxxxxx"
         />
 
         <activity android:name="SDLActivity"
