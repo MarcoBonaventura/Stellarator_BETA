@@ -1,0 +1,19 @@
+0: EnemySX
+1: EnemySX_Move MOVE_DX
+2: EnemySX_Move MOVE_SX
+3: EnemySX_Move ESCAPE_DX
+4: EnemySX_Move	ESCAPE_SX
+5: EnemySX_Move PIRAMYD
+6: EnemySX_Move DIAMOND
+7: EnemySX_Move GRID
+8:
+9:
+
+10: EnemyMM "laser degree straight" 
+11: EnemyMM	"enemy rotate"
+12: EnemyMM2 "move down & fires alternate"
+13: EnemyMM3 "gammaray"
+14: EnemyMM "laser degree rotating"
+15: EnemyMM "enemy rotate"
+
+
